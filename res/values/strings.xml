@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+
+    <string name="title">ISO-DEP(ISO 14443) APDU)</string>
+    <string name="app_name">ISO-DEP APDU</string>
+    <string name="error_detected">TAG NOT DETECTED. WHERE DO YOU WANT WRITE!?!?</string>
+    <string name="ok_writing">I HAVE WRITTEN YOUR FIRST TAG!!</string>
+    <string name="error_writing">Error During Sending APDU. Are You sure that your tag is close to your Mobile Phone?</string>
+    <string name="ok_detection">TAG DETECTED: </string>
+    <string name="write_label">Write Your APDU</string>    
+    <string name="send_isodep">Send APDU</string>
+    <string name="msg_hint">Message</string>
+    <string name="apdu_resp">Response</string>
+        
+    
+</resources>
