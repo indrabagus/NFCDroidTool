@@ -11,6 +11,9 @@
     <string name="send_isodep">Send APDU</string>
     <string name="msg_hint">Message</string>
     <string name="apdu_resp">Response</string>
+    <string name="dialog_title">ISODEP APDU</string>    
+    <string name="dialog_text">Tempelkan TAG NFC</string>    
+    <color name="respcolor">#FFFFFF</color>
         
     
 </resources>
